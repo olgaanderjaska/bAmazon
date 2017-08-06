@@ -43,16 +43,16 @@
 			"file": "bamazonCustomer.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 384,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "bamazonManager.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 292,
 				"line_ending": "Windows"
 			}
 		}
@@ -99,10 +99,6 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Users/olgaa/Desktop/bAmazon"
-	],
 	"file_history":
 	[
 		"/C/Users/olgaa/Desktop/bAmazon/.gitignore",
@@ -284,7 +280,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 384,
 						"regions":
 						{
 						},
@@ -312,7 +308,7 @@
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 292,
 						"regions":
 						{
 						},
