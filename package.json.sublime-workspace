@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"redCry",
+				"Red-crystal"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bamazonCustomer.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "side",
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/olgaa/Desktop/bAmazon/package.json.sublime-project",
+		"/C/Users/olgaa/Desktop/bAmazon/.gitignore",
+		"/C/Users/olgaa/Desktop/bAmazon/bamazonCustomer.js",
+		"/C/Users/olgaa/Documents/School coding/Bootstrap-Portfolio/contact.html",
+		"/C/Users/olgaa/Documents/School coding/Responsive-Portfolio/contact.html",
+		"/C/Users/olgaa/Desktop/bands/add.js",
+		"/C/Users/olgaa/Desktop/bands/bands.js",
+		"/C/Users/olgaa/Desktop/HotRestaurant/public/reservation.html",
+		"/C/Users/olgaa/Desktop/bands/run.js",
+		"/C/Users/olgaa/Desktop/liri-node-app/random.txt",
+		"/C/Users/olgaa/Desktop/liri-node-app/.gitignore",
+		"/C/Users/olgaa/Desktop/liri-node-app/keys.js",
+		"/C/Users/olgaa/Desktop/liri-node-app/liri.js",
+		"/C/Users/olgaa/Desktop/liri-node-app/package.json",
+		"/C/Users/olgaa/Desktop/LIRI/package.json",
+		"/C/Users/olgaa/Desktop/liri-node-app/package.json.sublime-project",
+		"/C/Users/olgaa/Desktop/omdb_folder/omdb.js",
+		"/C/Users/olgaa/Desktop/CasaDeSerenity_Project/assets/add.js",
+		"/C/Users/olgaa/Documents/Prework_OA/untitled folder/Module-7/BooTheDog.html",
+		"/C/Users/olgaa/Documents/Prework_OA/untitled folder/Module-8/fanpage.html",
+		"/C/Users/olgaa/Documents/My_class_project/My Bio.html",
+		"/C/Users/olgaa/Documents/My-First_Website.HTML/My_First_Website.html",
+		"/C/Users/olgaa/Documents/My-First_Website.HTML/fanpage.html",
+		"/C/Users/olgaa/Desktop/movieHouse.MOV",
+		"/C/Users/olgaa/Desktop/DJI_0083.MOV",
+		"/C/Users/olgaa/Documents/Prework_OA/untitled folder/Module-9/index.html",
+		"/C/Users/olgaa/Documents/Prework_OA/untitled folder/Module-10/index.html",
+		"/C/Users/olgaa/Documents/School coding/Bootstrap-Portfolio/index.html",
+		"/C/Users/olgaa/Documents/School coding/Responsive-Portfolio/portfolio.html",
+		"/C/Users/olgaa/Documents/School coding/Responsive-Portfolio/assets/css/style.css",
+		"/C/Users/olgaa/Desktop/Sandwich.html",
+		"/C/Users/olgaa/Desktop/GifTastic/assets/javascript/add.js",
+		"/C/Users/olgaa/Desktop/EmployeeSchedule/index.html",
+		"/C/Users/olgaa/Desktop/CasaDeSerenity_Project/assets/style.css",
+		"/C/Users/olgaa/Desktop/test.html",
+		"/C/Users/olgaa/Desktop/Train-Scheduler/index.html",
+		"/C/Users/olgaa/Desktop/SurchPort/assets/css/style.css",
+		"/C/Users/olgaa/Documents/School coding/Responsive-Portfolio/index.html",
+		"/C/Users/olgaa/Desktop/SurchPort/index.html",
+		"/C/Users/olgaa/Desktop/Train-Scheduler/assets/style.css",
+		"/C/Users/olgaa/Desktop/CasaDeSerenity_Project/index.html",
+		"/C/Users/olgaa/Desktop/Workproject/index.html",
+		"/C/Users/olgaa/Desktop/index.html",
+		"/C/Users/olgaa/Desktop/Rio Host Rental Website Template _ WIX.html",
+		"/C/Users/olgaa/Desktop/GifTastic/index.html",
+		"/C/Users/olgaa/Documents/School coding/Bootstrap-Portfolio/css/style.css",
+		"/C/Users/olgaa/Desktop/Project-1/index.html",
+		"/C/Users/olgaa/Desktop/SurchPort/README.md",
+		"/C/Users/olgaa/Desktop/test3.html",
+		"/C/Users/olgaa/Documents/School coding/TriviaGame/index.html",
+		"/C/Users/olgaa/Documents/School coding/TriviaGame/assets/javascript/add.js",
+		"/C/Users/olgaa/Desktop/2-student-do-signin-no-persistence.html",
+		"/C/Users/olgaa/Desktop/test2.html",
+		"/C/Users/olgaa/Desktop/newFolder/index.html",
+		"/C/Users/olgaa/Desktop/newFolder/app.js",
+		"/C/Users/olgaa/Desktop/New folder/app.js",
+		"/C/Users/olgaa/Desktop/New folder/index.html",
+		"/C/Users/olgaa/Desktop/GifTastic/assets/javascript/logic.js",
+		"/C/Users/olgaa/Desktop/GifTastic/assets/style.css",
+		"/C/Users/olgaa/Desktop/BasicJS.html",
+		"/C/Users/olgaa/Desktop/logic.html",
+		"/C/Users/olgaa/Desktop/Hagman/index.html",
+		"/C/Users/olgaa/Desktop/Hagman/assets/logic.js",
+		"/C/Users/olgaa/Desktop/TriviaGame/assets/javascript/add.js",
+		"/C/Users/olgaa/Desktop/TriviaGame/index.html",
+		"/C/Users/olgaa/Desktop/Psychic-Game/assets/css/style.css",
+		"/C/Users/olgaa/Desktop/TriviaGame/assets/css/style.css",
+		"/C/Users/olgaa/Desktop/week4game/index.html",
+		"/C/Users/olgaa/Desktop/week4game/assets/javascript/game.js",
+		"/C/Users/olgaa/Desktop/game 4.js",
+		"/C/Users/olgaa/Desktop/week4game/assets/css/style.css",
+		"/C/Users/olgaa/Desktop/4game.js",
+		"/C/Users/olgaa/Desktop/week-4-game/assets/game.js",
+		"/C/Users/olgaa/Desktop/week4game/assets/css/reset.css",
+		"/C/Users/olgaa/Desktop/slideshow.js",
+		"/C/Users/olgaa/Desktop/Calculator.html",
+		"/C/Users/olgaa/Downloads/trigger-random-unsolved.html",
+		"/C/Users/olgaa/Desktop/drinklist-unsolved.html",
+		"/C/Users/olgaa/Desktop/Psychic-Game/assets/javascript/game.js",
+		"/C/Users/olgaa/Desktop/style.css",
+		"/C/Users/olgaa/Desktop/captain-planet-game.html",
+		"/C/Users/olgaa/Desktop/fridge.html",
+		"/C/Users/olgaa/Downloads/jquery-drinklist-unsolved.html",
+		"/C/Users/olgaa/Downloads/sandwich-click-unsolved.html",
+		"/C/Users/olgaa/Desktop/Flip coint.html",
+		"/C/Users/olgaa/Desktop/This.html",
+		"/C/Users/olgaa/Desktop/Timeout.html",
+		"/C/Users/olgaa/Desktop/Timewatch.js",
+		"/C/Users/olgaa/Desktop/week-4-game/index.html",
+		"/C/Users/olgaa/Desktop/Psychic-Game/assets/css/reset.css",
+		"/C/Users/olgaa/Desktop/week4game/assets/javascript",
+		"/C/Users/olgaa/Desktop/game.js",
+		"/C/Users/olgaa/Desktop/Timewatch.html",
+		"/C/Users/olgaa/Desktop/week-4-game/assets/css/style.css",
+		"/C/Users/olgaa/Desktop/week-4-game/assets/javascript/game.js",
+		"/C/Users/olgaa/Desktop/week-4-game/assets/index.html/index.html",
+		"/C/Users/olgaa/Desktop/RelativePaths_UNSOLVED/RelativePaths_1/html-bio.html",
+		"/C/Users/olgaa/Desktop/week-4-game/assets/css/reset.css",
+		"/C/Users/olgaa/Desktop/Psychic-Game/index.html",
+		"/C/Users/olgaa/Desktop/Psychic-44-705x458.jpg",
+		"/C/Users/olgaa/Desktop/Archive.zip",
+		"/C/Users/olgaa/Downloads/captain_planet.zip",
+		"/C/Users/olgaa/Desktop/Project#1.html",
+		"/C/Users/olgaa/Desktop/Project#1.sublime-project",
+		"/C/Users/olgaa/Desktop/zooAnimals.html",
+		"/C/Users/olgaa/Desktop/Bootstrap-Portfolio/contact.html",
+		"/C/Users/olgaa/Desktop/Responsive-Portfolio/index.html",
+		"/C/Users/olgaa/Desktop/Bootstrap-Portfolio/index.html",
+		"/C/Users/olgaa/Desktop/Psychic-Game/index.html.txt",
+		"/C/Users/olgaa/Documents/Drink opptions.html.js",
+		"/C/Users/olgaa/Documents/Drink opptions.js",
+		"/C/Users/olgaa/Desktop/Bootstrap-Portfolio/portfolio.html",
+		"/C/Users/olgaa/Downloads/loop-tv-unsolved.html",
+		"/C/Users/olgaa/Downloads/-.html",
+		"/C/Users/olgaa/Downloads/car-object-unsolved.html",
+		"/C/Users/olgaa/Downloads/my-first-functions-unsolved.html",
+		"/C/Users/olgaa/Downloads/README.md",
+		"/C/Users/olgaa/Desktop/Bootstrap-Portfolio/css/style.css",
+		"/C/Users/olgaa/Desktop/Responsive-Portfolio/assets/css/style.css",
+		"/C/Users/olgaa/Desktop/Basic-Portfolio/assets/images/Img2.png",
+		"/C/Users/olgaa/Desktop/Basic-Portfolio/assets/images/Img1.jpeg",
+		"/C/Users/olgaa/Desktop/Bootstrap-Portfolio/zooAnimals.html",
+		"/C/Users/olgaa/Desktop/Bootstrap.html",
+		"/C/Users/olgaa/Desktop/Basic-Portfolio/assets/css/reset.css",
+		"/C/Users/olgaa/Desktop/Basic-Portfolio/assets/images/1494449438_stackoverflow.png",
+		"/C/Users/olgaa/Desktop/Basic-Portfolio/assets/images/github_square_black icon.svg",
+		"/C/Users/olgaa/Desktop/Basic-Portfolio/README.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"imgLo",
+			"overflow",
+			"location",
+			"175",
+			"\"));\n",
+			";\n",
+			"raw",
+			"   \n",
+			"}",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bamazonCustomer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.json.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
