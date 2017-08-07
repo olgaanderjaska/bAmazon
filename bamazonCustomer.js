@@ -8,16 +8,16 @@ var connection = mysql.createConnection({
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "",
+    password: "root",
     database: "bamazon_db"
 });
 
 // Front Welcome Screen
-getAllData();
+storeFront();
 
 // get all data from database
 
-function getAllData(){
+function storeFront(){
 	console.log("Welcom to bAmazon! Make a celection from our database list.");
 
 //Create new table variable for printing database data 
@@ -39,7 +39,7 @@ function getAllData(){
             showQuestions();
 
         });
-}
+};
 
 // ask user about an id and amount of items user wants to buy
 // based on user input run checkQuantity function
@@ -58,7 +58,7 @@ function showQuestions() {
     ]).then((ans) => {
         checkQuantity(ans.QTY, ans.ID);
     });
-}
+};
 
 //check amount of items user entered
 function checkQuantity(userQuantity, itemId) {
@@ -80,7 +80,7 @@ function checkQuantity(userQuantity, itemId) {
             updateDepartmentSales(depId, total);
         };
     });
-}
+};
 
 //Function update product quantity
 //Fufill order
@@ -89,7 +89,7 @@ function updateQuantity(itemId, quantity) {
         if (error) throw error
         else console.log('Your order was successfully placed! Thank you for shopping with us today!');
     });
-}
+};
 
 //function update product sales in products table
 //accept product id and total price for purchase
