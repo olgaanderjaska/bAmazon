@@ -18,12 +18,7 @@ getAllData();
 // get all data from database
 
 function getAllData(){
-	console.log(
-		
-"Welcom to bAmazon!"
-"Make a celection from our database list."
-
-);
+	console.log("Welcom to bAmazon! Make a celection from our database list.");
 
 //Create new table variable for printing database data 
     var table = new Table({ 
@@ -33,8 +28,8 @@ function getAllData(){
 // Querying database for all data
     //Using INNER JOIN for selecting department name based on department_id from products table
     connection.query("SELECT products.item_id, products.product_name, departments.department_name, products.price, products.stock_quantity FROM products INNER JOIN departments ON products.department_id = departments.department_id",
-        (err, items) => {
-            if (err) throw err;
+        (error, items) => {
+            if (error) throw error;
             items.forEach((data) => {
                 var elem = [];
                 elem.push(data.item_id, data.product_name, data.department_name, data.price, data.stock_quantity);
@@ -69,7 +64,7 @@ function showQuestions() {
 function checkQuantity(userQuantity, itemId) {
     connection.query("SELECT stock_quantity, price, department_id FROM products WHERE item_id = ?", itemId, (err, row) => {
 //if more available than print appropriate message.       
-        if (err) throw err;
+        if (error) throw error;
         var productQuantity = row[0].stock_quantity;
         var price = row[0].price;
         var depId = row[0].department_id;
@@ -91,7 +86,7 @@ function checkQuantity(userQuantity, itemId) {
 //Fufill order
 function updateQuantity(itemId, quantity) {
     connection.query('UPDATE products SET stock_quantity = ? WHERE item_id = ?', [quantity, itemId], (err) => {
-        if (err) throw err
+        if (error) throw error
         else console.log('Your order was successfully placed! Thank you for shopping with us today!');
     });
 }
@@ -100,7 +95,7 @@ function updateQuantity(itemId, quantity) {
 //accept product id and total price for purchase
 function updateItemSales(itemId, total) {
     connection.query('UPDATE products SET product_sales = product_sales + ? WHERE item_id = ?', [total, itemId], (err) => {
-        if (err) throw err
+        if (error) throw error
         else console.log('Product total sales updated');
     });
 }
@@ -109,7 +104,7 @@ function updateItemSales(itemId, total) {
 //accept department id and total price for purchase
 function updateDepartmentSales(depId, total) {
     connection.query('UPDATE departments SET total_sales = total_sales + ? WHERE department_id = ?', [total, depId], (err) => {
-        if (err) throw err
+        if (error) throw error
         else console.log('Department total sales updated');
         getAllData();
     });
