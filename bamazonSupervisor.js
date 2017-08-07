@@ -51,12 +51,12 @@ function productsSales() {
     //table variable for printing database data nicely
     var table = new Table({ head: ["Id", "Department Name", "Overhead Costs", "Product Sales", " Total Profit"] });
 
-    connection.query('SELECT department_id, department_name, over_head_cost, total_sales, (total_sales - over_head_cost) as total_profit FROM departments',
+    connection.query('SELECT department_id, department_name, over_head_costs, product_sales, (total_sales - over_head_costs) as total_profit FROM departments',
         (err, row) => {
             if (err) throw err;
             row.forEach(function(data) {
                 var elem = [];
-                elem.push(data.department_id, data.department_name, data.over_head_cost, data.total_sales, data.total_profit);
+                elem.push(data.department_id, data.department_name, data.over_head_costs, data.product_sales, data.total_profit);
                 table.push(elem);
             });
             console.log(table.toString());
@@ -75,7 +75,7 @@ function newDepartment() {
         name: "over_head_cost",
         message: "Overhead cost: "
     }]).then((item) => {
-        connection.query("INSERT INTO departments(department_name,over_head_cost, total_sales) VALUES (?,?,0)", [item.department_name, item.over_head_cost],
+        connection.query("INSERT INTO departments(department_name,over_head_costs, product_sales) VALUES (?,?,0)", [item.department_name, item.over_head_costs],
             (err) => { if (error) throw error; });
         console.log('Department was successfully added.');
         console.log('******************************************************************');
