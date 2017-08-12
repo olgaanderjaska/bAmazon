@@ -1,1 +1,1 @@
-![bAmazon/screenshot](./Screenshot(1).png)
+![bAmazon](Screenshot(1).png)
