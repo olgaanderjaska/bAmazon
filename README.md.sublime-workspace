@@ -39,23 +39,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "bamazonCustomer.js",
-			"settings":
-			{
-				"buffer_size": 4029,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "bamazonManager.js",
-			"settings":
-			{
-				"buffer_size": 5728,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -101,7 +84,13 @@
 	},
 	"file_history":
 	[
-		"/C/Users/olgaa/Desktop/bAmazon/.gitignore",
+		"/C/Users/olgaa/Desktop/FriendFinder/server.js",
+		"/C/Users/olgaa/Desktop/FriendFinder/app/routing/htmlRoutes.js",
+		"/C/Users/olgaa/Desktop/FriendFinder/app/routing/apiRoutes.js",
+		"/C/Users/olgaa/Desktop/FriendFinder/app/public/survey.html",
+		"/C/Users/olgaa/Desktop/FriendFinder/package.json",
+		"/C/Users/olgaa/Desktop/FriendFinder/app/public/home.html",
+		"/C/Users/olgaa/Desktop/bAmazon/README.md",
 		"/C/Users/olgaa/Desktop/bAmazon/bamazonCustomer.js",
 		"/C/Users/olgaa/Documents/School coding/Bootstrap-Portfolio/contact.html",
 		"/C/Users/olgaa/Documents/School coding/Responsive-Portfolio/contact.html",
@@ -222,11 +211,7 @@
 		"/C/Users/olgaa/Desktop/Basic-Portfolio/assets/images/Img2.png",
 		"/C/Users/olgaa/Desktop/Basic-Portfolio/assets/images/Img1.jpeg",
 		"/C/Users/olgaa/Desktop/Bootstrap-Portfolio/zooAnimals.html",
-		"/C/Users/olgaa/Desktop/Bootstrap.html",
-		"/C/Users/olgaa/Desktop/Basic-Portfolio/assets/css/reset.css",
-		"/C/Users/olgaa/Desktop/Basic-Portfolio/assets/images/1494449438_stackoverflow.png",
-		"/C/Users/olgaa/Desktop/Basic-Portfolio/assets/images/github_square_black icon.svg",
-		"/C/Users/olgaa/Desktop/Basic-Portfolio/README.md"
+		"/C/Users/olgaa/Desktop/Bootstrap.html"
 	],
 	"find":
 	{
@@ -271,69 +256,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "bamazonCustomer.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4029,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 45.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "bamazonManager.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 5728,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -373,7 +297,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": ".gitignore.sublime-project",
+	"project": "README.md.sublime-project",
 	"replace":
 	{
 		"height": 42.0
